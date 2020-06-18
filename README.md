@@ -18,3 +18,4 @@ List of Philippine-based websites that got hacked
 | Mabalacat City College | http://mcc.edu.ph/ | Pinoy Grayhats | [View](https://www.facebook.com/pinoy.grayhats/posts/2647223015546860) | Security Breach | June 18, 2020 |
 | Bulacan State University | https://myportal.bulsu.edu.ph | Pinoy Grayhats | [View](https://www.facebook.com/pinoy.grayhats/posts/2647379262197902) | Security Breach | June 18, 2020 |
 | DepEd Caraga | http://caraga.deped.gov.ph/ | Mr. Supremo | [View](https://www.facebook.com/AntiViolentGovTS/posts/118310319917954) | Security Breach | June 18, 2020 |
+| Lipa City Colleges | ??? | Pinoy Greyhats | [View](https://www.facebook.com/pinoy.grayhats/posts/2647649532170875) | Security Breach | June 19, 2020 |
