@@ -12,6 +12,7 @@ List of Philippine-based websites that got hacked
 | University of St. La Salle | https://apps.usls.edu.ph/ | Pinoy Grayhats | [View](https://www.facebook.com/pinoy.grayhats/posts/2646506552285173) | Security Breach  | June 17, 2020 |
 | ICCT Colleges | https://sms.icct.edu.ph | Pinoy Grayhats | [View](https://www.facebook.com/pinoy.grayhats/photos/a.2303023643300134/2646712335597928) | Security Breach | June 17, 2020 |
 | AMA University | ??? | Pinoy Grayhats | [View](https://www.facebook.com/pinoy.grayhats/posts/2646454982290330) | Security Breach | June 17, 2020 |
+| Manuel S. Enverga University Foundation | http://jobfair.mseuf.edu.ph/ | FilTech Hackers Philippines | [View](http://jobfair.mseuf.edu.ph/fileentry/get/phpUyhfpK.html) | Security Breach | June 17, 2020 |
 | Polytechnic University of the Philippines | https://sis1.pup.edu.ph | Pinoy Grayhats | [View](https://www.facebook.com/ThePUPOfficial/posts/2989101634519153) | Security Breach / Data Leakage | June 18, 2020 |
 | University of Mindanao | https://student.umindanao.edu.ph/ | Pinoy Greyhats | [View](https://www.facebook.com/pinoy.grayhats/posts/2646818355587326) | Security Breach / Data Leakage | June 18, 2020 |
 | Apayao State College | http://asc.edu.ph/ | Pinoy Grayhats | [View](https://www.facebook.com/pinoy.grayhats/posts/2647169878885507) | Security Breach | June 18, 2020 |
