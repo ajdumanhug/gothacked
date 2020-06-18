@@ -6,7 +6,7 @@ List of Philippine-based websites that got hacked
 | ACCESS Computer College | Database? | Philippine Hacking University | [View](https://www.facebook.com/PHU.info.ph/posts/3087123154643000) | Security Breach | May 29, 2020 |
 | San Beda University | http://sis.sanbeda.edu.ph/ | Unknown | [View](https://news.mb.com.ph/2020/06/07/san-beda-student-portal-hacked/) | Security Breach / Data Leakage | June 08, 2020 |
 | University of the Philippines Visayas | http://upv.edu.ph/ | Unknown | [View](https://news.mb.com.ph/2020/06/11/up-visayas-website-hacked/) | Security Breach | June 11, 2020 |
-| Far Eastern University | https://news.mb.com.ph/2020/06/17/feu-website-hacked/ | Pinoy Grayhats | [View](https://news.mb.com.ph/2020/06/17/feu-website-hacked/) | Security Breach / Data Leakage | June 17, 2020 |
+| Far Eastern University | https://online.feu.edu.ph/ | Pinoy Grayhats | [View](https://news.mb.com.ph/2020/06/17/feu-website-hacked/) | Security Breach / Data Leakage | June 17, 2020 |
 | Cebu Normal University | https://lms.cnu.edu.ph | Pinoy Grayhats | [View](https://www.facebook.com/pinoy.grayhats/posts/2646257762310052) | Security Breach | June 17, 2020 |
 | Tarlac Agricultural University | http://tau.edu.ph:8083 | Pinoy Grayhats | [View](https://www.facebook.com/pinoy.grayhats/posts/2646391612296667) | Security Breach | June 17, 2020 |
 | University of St. La Salle | https://apps.usls.edu.ph/ | Pinoy Grayhats | [View](https://www.facebook.com/pinoy.grayhats/posts/2646506552285173) | Security Breach  | June 17, 2020 |
