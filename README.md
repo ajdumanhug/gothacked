@@ -1,7 +1,7 @@
 # gothacked
 List of Philippine-based websites that got hacked
 
-| Organization/Company | Website | Cybercriminal | Source | Screenshot | Type of Attack | Date of Attack |
+| Organization | Website | Cybercriminal | Source | Screenshot | Attack Type | Attack Date |
 | --- | --- | --- | --- | --- | --- | --- |
 | ACCESS Computer College | Database? | Philippine Hacking University | [View](https://www.facebook.com/PHU.info.ph/posts/3087123154643000) | [View](https://github.com/ajdumanhug/gothacked/blob/master/images/ACCESS.png) | Security Breach | May 29, 2020 |
 | San Beda University | http://sis.sanbeda.edu.ph/ | Unknown | [View](https://news.mb.com.ph/2020/06/07/san-beda-student-portal-hacked/) | <-- | Security Breach / Data Leakage | June 08, 2020 |
