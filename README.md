@@ -1,5 +1,5 @@
 # > ./gothacked
-## List of Philippine-based websites that got hacked
+## List of Philippine-based websites that got hacked this month (Academe-related Sites only)
 
 **Disclaimer: I am not part of any bad hacking groups mentioned in the table below. The main purpose of this list is to compile all the compromised websites.**
 
